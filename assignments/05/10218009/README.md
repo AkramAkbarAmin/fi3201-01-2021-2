@@ -7,3 +7,4 @@
 ## answer
 Tautan ke berkas Notebook Python saya adalah [work_of_friction.ipynb](work_of_friction.ipynb).
 
+-
